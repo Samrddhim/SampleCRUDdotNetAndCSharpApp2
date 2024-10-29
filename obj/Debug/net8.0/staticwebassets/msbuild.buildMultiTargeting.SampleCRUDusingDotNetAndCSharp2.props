@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SampleCRUDusingDotNetAndCSharp2.props" />
+</Project>

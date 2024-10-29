@@ -1,0 +1,6 @@
+@SampleCRUDusingDotNetAndCSharp2_HostAddress = http://localhost:5122
+
+GET {{SampleCRUDusingDotNetAndCSharp2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
